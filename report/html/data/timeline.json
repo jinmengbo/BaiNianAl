@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-QF4442N",
+    "children" : [ {
+      "name" : "21104-MainThread",
+      "children" : [ {
+        "name" : "Test_001.test_001",
+        "uid" : "ec2509c58f66137a",
+        "parentUid" : "c1fada52db846cbd071bd4e62498a454",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540882481073,
+          "stop" : 1540882481081,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_001.test_002",
+        "uid" : "b788ebeef3efb55c",
+        "parentUid" : "c1fada52db846cbd071bd4e62498a454",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540882481082,
+          "stop" : 1540882481083,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1fada52db846cbd071bd4e62498a454"
+    } ],
+    "uid" : "f893e00129be72973628a0abe3c7ef61"
+  } ]
+}
