@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1540885387661" stop="1540885387666">
+  <name>test_002</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1540885387661" status="passed" stop="1540885387666">
+      <name>Test_001.test_002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="22840-MainThread"/>
+        <label name="host" value="DESKTOP-QF4442N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1540885387666" status="passed" stop="1540885387666">
+          <name>我是登录操作方法</name>
+          <title>我是登录操作方法</title>
+          <attachments/>
+          <steps>
+            <step start="1540885387666" status="passed" stop="1540885387666">
+              <name>输入用户名</name>
+              <title>输入用户名</title>
+              <attachments>
+                <attachment source="aab84a9d-4d81-4352-9c83-7de8232fa8fa-attachment.txt" title="登录/注册按钮" type="text/plain"/>
+                <attachment source="d8e5f6a7-df5c-4864-8756-693de196ea25-attachment.txt" title="输入框" type="text/plain"/>
+                <attachment source="f1b1f5fb-299f-40f7-a583-f1953b8d095d-attachment.txt" title="用户名" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+            <step start="1540885387666" status="passed" stop="1540885387666">
+              <name>输入密码</name>
+              <title>输入密码</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
